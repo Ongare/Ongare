@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently in ALX One year Bootcamp
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me on: email at stephenongare2966@gmail.com, twitter @ ongare2
+- 📫 How to reach me on: email at stephenongare2966@gmail.com, twitter @ongare2
 - 
 
 <!---
